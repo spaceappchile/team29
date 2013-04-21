@@ -25,6 +25,6 @@ Project Data
 
 All data of Space Crops Project is available in our [wiki](http://www.twoxen.com/pro/nasa-beans/wiki/).
 
-User : invitado
+User : Invitado
 
 Pass : internationalspaceapps
